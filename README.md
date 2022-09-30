@@ -19,7 +19,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## :telephone_receiver: How to reach me
- <a href="www.linkedin.com/in/joaofelix27">
+ <a href="https://www.linkedin.com/in/joaofelix27/">
  <img align="left" alt="Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
 
