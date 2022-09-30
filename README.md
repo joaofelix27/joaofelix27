@@ -18,17 +18,18 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+## :telephone_receiver: How to reach me
+ <a href="www.linkedin.com/in/joaofelix27">
+ <img align="left" alt="Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
 
-
+</br>
 
 [//]: https://github.com/hlaueriksson/github-emoji
 ## :speaking_head: Day to day tools
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-
-
-
 </br>
 
 ## <img align="left" alt="JavaScript" width="26px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" /> Github Status
