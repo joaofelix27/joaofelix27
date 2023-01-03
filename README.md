@@ -1,7 +1,8 @@
 ## Hello there, welcome to my github page!
 
-✍ My name is João Félix and I see myself as a hardworking, creative and responsible person, who can work well when pressured and builds a great chemistry when working with others. Currently I'm in the last module of Driven's Full Stack course where I learn how to build aplications with React, NodeJS and test them with Jest.
-Other than that, I'm also working as a Full Stack intern in Heeds where I'm able to build back-end applications with Django Rest Framework and front-end applications with React.
+✍ My name is João Félix and I see myself as a hardworking, creative and responsible person, who can work well when pressured and builds a great chemistry when working with others.
+
+  Currently I'm in the last module of Driven's Full Stack course where I learn how to build aplications with React, NodeJS and test them with Jest.Other than that, I'm also working as a Full Stack intern in Heeds where I'm able to build back-end applications with Django Rest Framework and front-    end applications with React.
 
 ## <img align="left" alt="Skills" width="26px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" /> Language and Tools
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
