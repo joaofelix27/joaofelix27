@@ -1,8 +1,13 @@
-## Hello there, welcome to my github page!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=8597F7&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Jo%C3%A3o+and+that's+my+Github+page!)](https://git.io/typing-svg)
+## :curly_haired_man: About me
 
-✍ My name is João Félix and I see myself as a hardworking, creative and responsible person, who can work well when pressured and builds a great chemistry when working with others.
-
-  Currently I'm in the last module of Driven's Full Stack course where I learn how to build aplications with React, NodeJS and test them with Jest.Other than that, I'm also working as a Full Stack intern in Heeds where I'm able to build back-end applications with Django Rest Framework and front-    end applications with React.
+* I love to work in groups and to learn from others
+* I'm a Civil Engineering under graduate student
+* I'm also a Full Stack Development Student at Driven
+* Currently I'm learning about Docker and AWS
+* I'm planing to get deeper knowledge in Python
+* Intern at Heeds where I build back-end applications with Django Rest Framework and front-end applications with React
+* Fun Fact: I'm addicted to sitcoms
 
 ## <img align="left" alt="Skills" width="26px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" /> Language and Tools
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
