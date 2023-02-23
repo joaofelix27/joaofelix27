@@ -2,8 +2,7 @@
 ## :curly_haired_man: About me
 
 * I love to work in groups and to learn from others
-* I'm a Civil Engineering under graduate student
-* I'm also a Full Stack Development Student at Driven
+* I studied Civil Engineering before become a Full Stack Developer
 * Currently I'm learning about Docker and AWS
 * I'm planing to get deeper knowledge in Python
 * Intern at Heeds where I build back-end applications with Django Rest Framework and front-end applications with React
