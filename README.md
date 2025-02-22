@@ -32,6 +32,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/dynamodb-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/opensearch-005571?style=for-the-badge&logo=opensearch&logoColor=white)
+![AWS Neptune](https://img.shields.io/badge/AWS%20Neptune-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ### **Cloud & DevOps**  
