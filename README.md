@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=8597F7&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Jo%C3%A3o+and+that's+my+Github+page!)](https://git.io/typing-svg)
 ## :curly_haired_man: About me
 
-- Currently working as a Tech Lead at Omnichat.  
+- Currently working as a Sotfware Engineer at Omnichat.  
 - Passionate about team collaboration, technical documentation, and designing scalable, high-performance solutions.  
 - Currently exploring graph databases, AI agents, and machine learning to enhance data-driven decision-making.  
 - I enjoy working out, running, going to the gym, and playing sports.  
